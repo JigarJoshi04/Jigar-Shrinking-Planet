@@ -1,0 +1,2 @@
+D:\Unity Projects SY\Shrinking planet\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity Projects SY\Shrinking planet\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
